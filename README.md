@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # xk
 
 > this is my xk
@@ -24,3 +25,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # xk_vue
 学生选课的前端代码，下载后npm install 安装依赖，通过npm run dev运行
 >>>>>>> 2327f00060b9ede4ad7e23c8802c9a52ce17361f
+=======
+# xxk
+xxk
+>>>>>>> 864ecce3acac25ee9cc54e3ed84899c23e7a6faf
